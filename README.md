@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @kimynh
-- You can find on my page many HTML and CSS files to make a cute naruto website for ur honey :) I added a title for each HTML page but you can modify it
-Feel free to use <3
-
+- 👋 Salut, je suis @kimynh
+- Étudiante en MIAGE, j’aime transformer des besoins métiers en solutions techniques fiables, notamment autour du back-end, des bases de données et de l’automatisation.
+- Mes langages préférés : Java, Python, C, HTML/CSS
+- Mes environnements : Git, SVN
+- Méthode de travail : Modèle en cascade, Agile
+- Mon éditeur de texte : LaTeX
