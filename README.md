@@ -1,6 +1,7 @@
-- 👋 Salut, je suis @kimynh
-- Étudiante en MIAGE, j’aime transformer des besoins métiers en solutions techniques fiables, notamment autour du back-end, des bases de données et de l’automatisation.
-- Mes langages préférés : Java, Python, C, HTML/CSS
-- Mes environnements : Git, SVN
-- Méthode de travail : Modèle en cascade, Agile
-- Mon éditeur de texte : LaTeX
+- 👋 Salut, je suis **@kimynh**
+- 🎓 Étudiante en L3 **MIAGE**, j’aime transformer des besoins métiers en solutions techniques fiables, notamment autour du **back-end**, des **bases de données** et de l’**automatisation**. J’apprécie aussi le côté **front/visuel** (JavaScript, PHP) et la **programmation orientée objet**
+- 🧩 **Gestion de projet** : à l’aise en **travail de groupe**, j’aime organiser, structurer et faire avancer un projet. On me décrit comme **rigoureuse**, **fiable** et attentive aux détails (suivi, communication, respect des délais)
+- 💻 Mes langages préférés : **Java**, **Python**, **C**, **HTML/CSS**, **Javascript**
+- 🛠️ Outils / environnements : **Git**, **SVN**, **Visual Studio Code**, **Terminal (macOS)**
+- 🔁 Méthodes de travail : **Agile**, **cycle en V / cascade**
+- ✍️ Éditeur de texte (documentation) : **LaTeX**
