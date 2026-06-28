@@ -11,9 +11,9 @@
 
 👋 Bonjour, moi c'est **Elodie Cao (@kimynh)**.
 
-💼 Je suis actuellement **Ingénieure Logiciel en alternance chez Capgemini**.
+🌸 Je réalise actuellement un **stage en développement Full Stack chez Hyvilo**.
 
-🌸 J'ai également réalisé un **stage en développement Full Stack chez Hyvilo**.
+💼 Je serai **Ingénieure Logiciel en alternance chez Capgemini**.
 
 🎓 Je poursuis un **Master MIAGE à l'Université Paris 1 Panthéon-Sorbonne**.
 
