@@ -11,7 +11,7 @@
 
 👋 Bonjour, moi c'est **Elodie Cao (@kimynh)**.
 
-🌸 Je réalise actuellement un **stage en développement Full Stack chez Hyvilo**.
+🌸 Je réalise actuellement un **stage en développement Data Engineer chez Hyvilo**.
 
 💼 Je serai **Ingénieure Logiciel en alternance chez Capgemini**.
 
