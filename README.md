@@ -11,11 +11,9 @@
 
 👋 Bonjour, moi c'est **Elodie Cao (@kimynh)**.
 
-🌸 Je réalise actuellement un **stage en développement Data Engineer chez Hyvilo**.
+🌸 Je réalise actuellement une **alternance en développement Cloud chez Capgemini**.
 
-💼 Je serai **Ingénieure Logiciel en alternance chez Capgemini**.
-
-🎓 Je poursuis un **Master MIAGE à l'Université Paris 1 Panthéon-Sorbonne**.
+🎓 Je poursuis actuellement un **Master MIAGE à l'Université Paris 1 Panthéon-Sorbonne**.
 
 🚀 Je suis **co-fondatrice de Convenio**, une plateforme ATS pour PME et cabinets de recrutement (statut PEPITE).
 
