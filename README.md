@@ -37,7 +37,7 @@
 
 # 💼 Expériences
 
-🌷 **Ingénieure Logiciel en alternance** — Capgemini *(2026 – 2028)*
+🌷 **Développeuse Cloud en alternance** — Capgemini *(2026 – 2028)*
 
 🌷 **Développeuse Full Stack (Stage)** — Hyvilo *(2026)*
 
